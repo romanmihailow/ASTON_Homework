@@ -1,3 +1,5 @@
+package ru.netology;
+
 import java.util.HashSet;
 import java.util.Set;
 

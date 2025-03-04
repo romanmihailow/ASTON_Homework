@@ -1,3 +1,5 @@
+package ru.netology;
+
 public class Student {
     String name;    ///Имя класса
     int group;      ///Группа
@@ -28,7 +30,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Student{name='" + name + "', group=" + group + ", course=" + course + ", averageScore=" + getAvgScore() + "}";
+        return "ru.netology.Student{name='" + name + "', group=" + group + ", course=" + course + ", averageScore=" + getAvgScore() + "}";
     }
 
 
